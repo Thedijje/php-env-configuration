@@ -1,4 +1,4 @@
-# PHP ENV CONFIGURATION 
+# PHP DOT ENV CONFIGURATION 
 
 ## Introduction
 
