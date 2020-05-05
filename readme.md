@@ -28,7 +28,7 @@ Make sure no further `=` sign is there in key/value beside main saparator
 4. Use the function simply as follow
 
 ```
-env(BASE_URL);
+env('BASE_URL');
 ```
 
 That's it.
