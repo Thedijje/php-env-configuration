@@ -1,4 +1,4 @@
-![PHP DOT ENV CONFIGURATION]('assets/images/php-dot-env-cover.png')
+![PHP DOT ENV CONFIGURATION](assets/images/php-dot-env-cover.png)
 
 # PHP DOT ENV CONFIGURATION 
 
